@@ -31,6 +31,15 @@ venv\Scripts\activate    # Windows PowerShell
 
 ---
 
+## 🤝 Contributing
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) for details.  
+
+- Clear **notebook outputs** before committing.  
+- Keep random examples reproducible (e.g. `np.random.seed(0)`).  
+
+---
+
 ## 🏷️ Badges
 
 - License badge (shown above)  
